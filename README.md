@@ -15,7 +15,7 @@ This repository contains all coursework, programs, test suites, static analysis 
 ```
 Lab/
 ├── Lab 1/  # Use Case Modeling & Requirements Specification (Smart Lab Equipment & Slot Reservation Portal)
-├── Lab 2/  # Agile Project Management with Jira (Backlog, Sprints, Burndown) [To Be Uploaded]
+├── Lab 2/  # Agile Project Management with Jira (Backlog, Epics, Sprints, Burndown, Reflections)
 ├── Lab 3/  # Architectural Design & Component Modeling (Layered Architecture & Component Diagram)
 ├── Lab 4/  # Modularization & Game Engine Refactoring (Frogger Game Architecture)
 ├── Lab 5/  # Static Code Analysis & Security Linting (Library Fine & Renewal System: Flake8, Pylint, Bandit)
@@ -30,7 +30,7 @@ Lab/
 | Lab | Topic / Focus | Problem Statement / Subject | Key Deliverables & Artifacts |
 |:---:|---|---|---|
 | **[Lab 1](./Lab/Lab%201)** | Use Case Modeling & Requirements | Smart Lab Equipment & Slot Reservation Portal | Use Case Diagram & Flow Specification PDF, Functional & Non-Functional Requirements PDF, Word Doc Specification |
-| **[Lab 2](./Lab/Lab%202)** | Agile & Scrum in Jira | Smart Lab Equipment & Slot Reservation Portal | Backlog, Story Points, Sprint Board, Burndown Chart, Reflection *(Folder reserved - uploading soon)* |
+| **[Lab 2](./Lab/Lab%202)** | Agile & Scrum in Jira | Lab Equipment and Slot Reservations | Backlog View, Epics, Story Points (Fibonacci), Sprint Board, Burndown Chart, Reflection Q/A Report PDF |
 | **[Lab 3](./Lab/Lab%203)** | Architectural Design & Modeling | Smart Lab Equipment & Slot Reservation Portal | Component Diagram PDF, 4-Tier Layered Architecture Written Justification Report PDF |
 | **[Lab 4](./Lab/Lab%204)** | Modular Code Refactoring | Frogger Game Engine | Modular Architecture (`frog`, `vehicle`, `collisions`, `renderer`, `game_engine`), Gameplay Video, Chat History & Code PDF |
 | **[Lab 5](./Lab/Lab%205)** | Static Analysis & Security | Library Fine and Book Renewal System | `library_system.py`, Flake8, Pylint (10/10), Bandit reports (before & after), Issues table & Reflection |
